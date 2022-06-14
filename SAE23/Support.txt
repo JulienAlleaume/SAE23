@@ -1,5 +1,0 @@
-SELECT Nom,
- Prix_unitaire*Nombre  AS Prix_total
-FROM BDD;
-
-Calcule prix total en fonction de prix unitaire et nombre 
